@@ -1,4 +1,4 @@
-# 
+# Divine Way
 ** Version: 0.1 **
 * Movement
 * win 
